@@ -19,9 +19,9 @@ under the License.
 -->
 <rss version="0.91">
   <channel>
-    <title>VCF Security - Checkstyle report</title>
-    <link>file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/vcf-security</link>
-    <description>VCF Security - Checkstyle report</description>
+    <title>someFramework Security - Checkstyle report</title>
+    <link>file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/someFramework-security</link>
+    <description>someFramework Security - Checkstyle report</description>
     <language>en-us</language>
     <copyright>&#169;2016</copyright>
     <item>
@@ -30,9 +30,9 @@ under the License.
              Warnings: 0,
              Infos: 0
       </title>
-            <link>file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/vcf-security/checkstyle.html</link>
+            <link>file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/someFramework-security/checkstyle.html</link>
       <description>
-        <p>Click <a href="file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/vcf-security/checkstyle.html">here</a> for the full Checkstyle report.</p>
+        <p>Click <a href="file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/someFramework-security/checkstyle.html">here</a> for the full Checkstyle report.</p>
 
         <table summary="Files" boder="1">
           <thead>
@@ -46,7 +46,7 @@ under the License.
           <tbody>
                           <tr>
                 <td>
-                  <a href="file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/vcf-security/checkstyle.html#voya.vcf.serviceid.ServiceIdUserPasswordCredentials.java">voya/vcf/serviceid/ServiceIdUserPasswordCredentials.java</a>
+                  <a href="file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/someFramework-security/checkstyle.html#someCompany.someFramework.serviceid.ServiceIdUserPasswordCredentials.java">someCompany/someFramework/serviceid/ServiceIdUserPasswordCredentials.java</a>
                 </td>
                 <td>
                   0
@@ -60,7 +60,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/vcf-security/checkstyle.html#voya.vcf.security.digester.DigesterSecretKey.java">voya/vcf/security/digester/DigesterSecretKey.java</a>
+                  <a href="file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/someFramework-security/checkstyle.html#someCompany.someFramework.security.digester.DigesterSecretKey.java">someCompany/someFramework/security/digester/DigesterSecretKey.java</a>
                 </td>
                 <td>
                   0
@@ -74,7 +74,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/vcf-security/checkstyle.html#voya.vcf.security.domain.UserGroups.java">voya/vcf/security/domain/UserGroups.java</a>
+                  <a href="file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/someFramework-security/checkstyle.html#someCompany.someFramework.security.domain.UserGroups.java">someCompany/someFramework/security/domain/UserGroups.java</a>
                 </td>
                 <td>
                   0
@@ -88,7 +88,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/vcf-security/checkstyle.html#voya.vcf.security.domain.UserGroupsResponse.java">voya/vcf/security/domain/UserGroupsResponse.java</a>
+                  <a href="file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/someFramework-security/checkstyle.html#someCompany.someFramework.security.domain.UserGroupsResponse.java">someCompany/someFramework/security/domain/UserGroupsResponse.java</a>
                 </td>
                 <td>
                   0
@@ -102,7 +102,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/vcf-security/checkstyle.html#voya.vcf.security.digester.URIParamDigester.java">voya/vcf/security/digester/URIParamDigester.java</a>
+                  <a href="file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/someFramework-security/checkstyle.html#someCompany.someFramework.security.digester.URIParamDigester.java">someCompany/someFramework/security/digester/URIParamDigester.java</a>
                 </td>
                 <td>
                   0
@@ -116,7 +116,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/vcf-security/checkstyle.html#voya.vcf.security.CustomAuthenticationFilter.java">voya/vcf/security/CustomAuthenticationFilter.java</a>
+                  <a href="file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/someFramework-security/checkstyle.html#someCompany.someFramework.security.CustomAuthenticationFilter.java">someCompany/someFramework/security/CustomAuthenticationFilter.java</a>
                 </td>
                 <td>
                   0
@@ -130,7 +130,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/vcf-security/checkstyle.html#voya.vcf.security.ValidatingHttpFilter.java">voya/vcf/security/ValidatingHttpFilter.java</a>
+                  <a href="file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/someFramework-security/checkstyle.html#someCompany.someFramework.security.ValidatingHttpFilter.java">someCompany/someFramework/security/ValidatingHttpFilter.java</a>
                 </td>
                 <td>
                   0
@@ -144,7 +144,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/vcf-security/checkstyle.html#voya.vcf.security.CustomUserDetailsService.java">voya/vcf/security/CustomUserDetailsService.java</a>
+                  <a href="file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/someFramework-security/checkstyle.html#someCompany.someFramework.security.CustomUserDetailsService.java">someCompany/someFramework/security/CustomUserDetailsService.java</a>
                 </td>
                 <td>
                   0
@@ -158,7 +158,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/vcf-security/checkstyle.html#voya.vcf.serviceid.IdCache.java">voya/vcf/serviceid/IdCache.java</a>
+                  <a href="file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/someFramework-security/checkstyle.html#someCompany.someFramework.serviceid.IdCache.java">someCompany/someFramework/serviceid/IdCache.java</a>
                 </td>
                 <td>
                   0
@@ -172,7 +172,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/vcf-security/checkstyle.html#voya.vcf.security.digester.URIParamDigesterImpl.java">voya/vcf/security/digester/URIParamDigesterImpl.java</a>
+                  <a href="file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/someFramework-security/checkstyle.html#someCompany.someFramework.security.digester.URIParamDigesterImpl.java">someCompany/someFramework/security/digester/URIParamDigesterImpl.java</a>
                 </td>
                 <td>
                   0
@@ -186,7 +186,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/vcf-security/checkstyle.html#voya.vcf.security.PasswordCryptor.java">voya/vcf/security/PasswordCryptor.java</a>
+                  <a href="file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/someFramework-security/checkstyle.html#someCompany.someFramework.security.PasswordCryptor.java">someCompany/someFramework/security/PasswordCryptor.java</a>
                 </td>
                 <td>
                   0
@@ -200,7 +200,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/vcf-security/checkstyle.html#voya.vcf.security.AESPasswordCryptor.java">voya/vcf/security/AESPasswordCryptor.java</a>
+                  <a href="file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/someFramework-security/checkstyle.html#someCompany.someFramework.security.AESPasswordCryptor.java">someCompany/someFramework/security/AESPasswordCryptor.java</a>
                 </td>
                 <td>
                   0
@@ -214,7 +214,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/vcf-security/checkstyle.html#voya.vcf.serviceid.ServiceIdCache.java">voya/vcf/serviceid/ServiceIdCache.java</a>
+                  <a href="file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/someFramework-security/checkstyle.html#someCompany.someFramework.serviceid.ServiceIdCache.java">someCompany/someFramework/serviceid/ServiceIdCache.java</a>
                 </td>
                 <td>
                   0
@@ -228,7 +228,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/vcf-security/checkstyle.html#voya.vcf.security.token.SecureTokenGenerator.java">voya/vcf/security/token/SecureTokenGenerator.java</a>
+                  <a href="file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/someFramework-security/checkstyle.html#someCompany.someFramework.security.token.SecureTokenGenerator.java">someCompany/someFramework/security/token/SecureTokenGenerator.java</a>
                 </td>
                 <td>
                   0
@@ -242,7 +242,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/vcf-security/checkstyle.html#voya.vcf.serviceid.ServiceIdException.java">voya/vcf/serviceid/ServiceIdException.java</a>
+                  <a href="file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/someFramework-security/checkstyle.html#someCompany.someFramework.serviceid.ServiceIdException.java">someCompany/someFramework/serviceid/ServiceIdException.java</a>
                 </td>
                 <td>
                   0
@@ -256,7 +256,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/vcf-security/checkstyle.html#voya.vcf.serviceid.UserPasswordCredentials.java">voya/vcf/serviceid/UserPasswordCredentials.java</a>
+                  <a href="file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/someFramework-security/checkstyle.html#someCompany.someFramework.serviceid.UserPasswordCredentials.java">someCompany/someFramework/serviceid/UserPasswordCredentials.java</a>
                 </td>
                 <td>
                   0
@@ -270,7 +270,7 @@ under the License.
               </tr>
                           <tr>
                 <td>
-                  <a href="file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/vcf-security/checkstyle.html#voya.vcf.security.token.SecureTokenFactory.java">voya/vcf/security/token/SecureTokenFactory.java</a>
+                  <a href="file://C:\dev\maven-reporting-enablement\temp\build/site/1.0/someFramework-security/checkstyle.html#someCompany.someFramework.security.token.SecureTokenFactory.java">someCompany/someFramework/security/token/SecureTokenFactory.java</a>
                 </td>
                 <td>
                   0
